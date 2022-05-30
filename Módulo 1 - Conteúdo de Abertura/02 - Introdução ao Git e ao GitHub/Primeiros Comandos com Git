@@ -1,0 +1,15 @@
+PRIMEIROS COMANDOS COM GIT
+
+	- Iniciar o GIT
+		- git init
+
+	- Iniciar o Versionamento
+		-git add
+
+	- Criar um Commit
+		- git commit
+
+*Configurando o usuario do git
+
+	- git config --global user.email "seu_email"
+	- git config --global user.name seu_nome
